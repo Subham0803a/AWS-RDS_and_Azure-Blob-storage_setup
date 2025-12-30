@@ -1,7 +1,9 @@
-# ⚙️ How to Setup
+⚙️ How to Setup
 
 # Create and activate virtual environment
+
 python -m venv venv
+
 .\venv\Scripts\Activate.ps1
 
 # Install required libraries
